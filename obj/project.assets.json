@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucio\\Documents\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\lucio\\Documents\\GitHub\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\lucio\\Documents\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\lucio\\Documents\\GitHub\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\lucio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucio\\Documents\\Game\\obj\\",
+      "outputPath": "C:\\Users\\lucio\\Documents\\GitHub\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucio\\AppData\\Roaming\\NuGet\\NuGet.Config"

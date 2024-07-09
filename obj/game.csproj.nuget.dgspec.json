@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lucio\\Documents\\Game\\game.csproj": {}
+    "C:\\Users\\lucio\\Documents\\GitHub\\Game\\Game.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lucio\\Documents\\Game\\game.csproj": {
+    "C:\\Users\\lucio\\Documents\\GitHub\\Game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lucio\\Documents\\Game\\game.csproj",
-        "projectName": "game",
-        "projectPath": "c:\\Users\\lucio\\Documents\\Game\\game.csproj",
+        "projectUniqueName": "C:\\Users\\lucio\\Documents\\GitHub\\Game\\Game.csproj",
+        "projectName": "Game",
+        "projectPath": "C:\\Users\\lucio\\Documents\\GitHub\\Game\\Game.csproj",
         "packagesPath": "C:\\Users\\lucio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lucio\\Documents\\Game\\obj\\",
+        "outputPath": "C:\\Users\\lucio\\Documents\\GitHub\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucio\\AppData\\Roaming\\NuGet\\NuGet.Config"
