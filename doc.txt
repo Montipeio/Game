@@ -1,0 +1,2 @@
+Crear proyecto: dotnet new console -n <proyect-name>
+Correr proyecto: dotnet run
